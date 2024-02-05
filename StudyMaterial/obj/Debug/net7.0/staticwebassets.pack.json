@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\Files\\82fe3a8e-e03e-4a48-b34e-1099f7ee1bafsaheemshafi-resume (1).pdf",
+      "PackagePath": "staticwebassets\\Files\\82fe3a8e-e03e-4a48-b34e-1099f7ee1bafsaheemshafi-resume (1).pdf"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\Files\\8a74396b-de9b-421f-b9be-00dd75d231adsaheemshafi-resume (1).pdf",
+      "PackagePath": "staticwebassets\\Files\\8a74396b-de9b-421f-b9be-00dd75d231adsaheemshafi-resume (1).pdf"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\Files\\94bc6f72-beca-409c-95c7-0d7d49393045saheemshafi-resume (1).pdf",
+      "PackagePath": "staticwebassets\\Files\\94bc6f72-beca-409c-95c7-0d7d49393045saheemshafi-resume (1).pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.StudyMaterial.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.StudyMaterial.Api.props",
+      "PackagePath": "build\\StudyMaterial.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StudyMaterial.Api.props",
+      "PackagePath": "buildMultiTargeting\\StudyMaterial.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.StudyMaterial.Api.props",
+      "PackagePath": "buildTransitive\\StudyMaterial.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

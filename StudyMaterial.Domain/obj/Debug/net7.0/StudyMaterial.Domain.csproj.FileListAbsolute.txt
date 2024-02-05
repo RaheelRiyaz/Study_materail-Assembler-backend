@@ -1,0 +1,12 @@
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\bin\Debug\net7.0\StudyMaterial.Domain.deps.json
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\bin\Debug\net7.0\StudyMaterial.Domain.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\bin\Debug\net7.0\StudyMaterial.Domain.pdb
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\StudyMaterial.Domain.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\StudyMaterial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\StudyMaterial.Domain.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\StudyMaterial.Domain.AssemblyInfo.cs
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\StudyMaterial.Domain.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\StudyMaterial.Domain.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\refint\StudyMaterial.Domain.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\StudyMaterial.Domain.pdb
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Domain\obj\Debug\net7.0\ref\StudyMaterial.Domain.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "5McOZYlSlqYqyJIr6/wqyVn2WeaNJ/PoH5xlSvG+1aA=",
+  "Source": "StudyMaterial.Api",
+  "BasePath": "_content/StudyMaterial.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudyMaterial.Api\\wwwroot",
+      "Source": "StudyMaterial.Api",
+      "ContentRoot": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\",
+      "BasePath": "_content/StudyMaterial.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\Files\\82fe3a8e-e03e-4a48-b34e-1099f7ee1bafsaheemshafi-resume (1).pdf",
+      "SourceId": "StudyMaterial.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\",
+      "BasePath": "_content/StudyMaterial.Api",
+      "RelativePath": "Files/82fe3a8e-e03e-4a48-b34e-1099f7ee1bafsaheemshafi-resume (1).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\82fe3a8e-e03e-4a48-b34e-1099f7ee1bafsaheemshafi-resume (1).pdf"
+    },
+    {
+      "Identity": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\Files\\8a74396b-de9b-421f-b9be-00dd75d231adsaheemshafi-resume (1).pdf",
+      "SourceId": "StudyMaterial.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\",
+      "BasePath": "_content/StudyMaterial.Api",
+      "RelativePath": "Files/8a74396b-de9b-421f-b9be-00dd75d231adsaheemshafi-resume (1).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\8a74396b-de9b-421f-b9be-00dd75d231adsaheemshafi-resume (1).pdf"
+    },
+    {
+      "Identity": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\Files\\94bc6f72-beca-409c-95c7-0d7d49393045saheemshafi-resume (1).pdf",
+      "SourceId": "StudyMaterial.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCoreApi\\StudyMaterial.Api\\StudyMaterial\\wwwroot\\",
+      "BasePath": "_content/StudyMaterial.Api",
+      "RelativePath": "Files/94bc6f72-beca-409c-95c7-0d7d49393045saheemshafi-resume (1).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\94bc6f72-beca-409c-95c7-0d7d49393045saheemshafi-resume (1).pdf"
+    }
+  ]
+}

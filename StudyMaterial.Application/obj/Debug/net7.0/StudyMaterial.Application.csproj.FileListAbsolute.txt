@@ -1,0 +1,17 @@
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\bin\Debug\net7.0\StudyMaterial.Application.deps.json
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\bin\Debug\net7.0\StudyMaterial.Application.runtimeconfig.json
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\bin\Debug\net7.0\StudyMaterial.Application.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\bin\Debug\net7.0\StudyMaterial.Application.pdb
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.AssemblyInfo.cs
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\refint\StudyMaterial.Application.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.pdb
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.genruntimeconfig.cache
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\ref\StudyMaterial.Application.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\bin\Debug\net7.0\StudyMaterial.Domain.dll
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\bin\Debug\net7.0\StudyMaterial.Domain.pdb
+D:\DotNetCoreApi\StudyMaterial.Api\StudyMaterial.Application\obj\Debug\net7.0\StudyMaterial.Application.csproj.CopyComplete
